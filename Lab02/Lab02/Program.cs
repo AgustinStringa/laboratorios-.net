@@ -5,4 +5,5 @@ string valor3 = valor1;
 Console.WriteLine("el valor 1 es " + valor1);
 Console.WriteLine("el valor 2 es " + valor2);
 Console.WriteLine("el valor 3 es " + valor3);
+Console.WriteLine("programa finalizado");
 Console.ReadKey();

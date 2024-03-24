@@ -12,3 +12,4 @@ C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\n
 C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\Lab02.pdb
 C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\Lab02.genruntimeconfig.cache
 C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\ref\Lab02.dll
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\Lab02.sourcelink.json
