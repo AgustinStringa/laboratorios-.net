@@ -1,0 +1,14 @@
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfoInputs.cache
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfo.cs
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\bin\Debug\net8.0\Lab02.exe
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\bin\Debug\net8.0\Lab02.deps.json
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\bin\Debug\net8.0\Lab02.runtimeconfig.json
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\bin\Debug\net8.0\Lab02.dll
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\bin\Debug\net8.0\Lab02.pdb
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\Lab02.dll
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\refint\Lab02.dll
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\Lab02.pdb
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\Lab02.genruntimeconfig.cache
+C:\Users\agust\OneDrive\3er año\.NET\Unidad 1\Capitulo1\Lab02\Lab02\obj\Debug\net8.0\ref\Lab02.dll
